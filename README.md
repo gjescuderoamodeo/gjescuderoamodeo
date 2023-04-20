@@ -1,9 +1,6 @@
 ### Hola 👋,
 #### me llamo Guillermo José, y soy un desarrollador web y multiplataforma
 
-
-Habilidades: EXPRESS JS / SVELTE / JS / HTML / CSS
-
 - 🌱 Estoy aprendiendo Svelte/Svelte-kit, Prisma, Flutter y Express js 
 - 📫 ¿Quieres contactar conmigo? 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/guillermo-jos%C3%A9-escudero-amodeo-8b15bb204//)  
